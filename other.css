@@ -1,0 +1,191 @@
+body {
+    background: url(Images/redBG.jpg);
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    background-color: #000000;
+    height: 125px;
+    width: 100%;
+}
+
+.navigation {
+    color: #ffffff;
+    float: right;
+    font-size: 175%;
+    margin-left: 2%;
+    margin-right: 6%;
+    margin-top: 1.25%;
+    padding: 2%;
+    text-decoration: none;
+}
+
+.navigation:hover {
+    background-color: grey;
+    border-radius: 5%;
+}
+
+header #home img {
+    float: left;
+    margin-left: 2.5%;
+    margin-top: 0.75%;
+    width: 6%;
+}
+
+.footer {
+    background-color: #000000;
+    margin-bottom: -1%;
+    position: relative;
+    width: 100%;
+}
+
+.footer h4 {
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.jobs {
+    display: inline-block;
+    margin-left: 4%;
+    text-align: center;
+    width: 20%;
+
+}
+
+.footer a {
+    color: #ffffff;
+    margin: 1%;
+    text-decoration: none;
+}
+
+.contact {
+    display: inline-block;
+    margin-left: 4%;
+    text-align: center;
+    width: 20%;
+}
+
+.social {
+    display: inline-block;
+    margin-left: 4%;
+    text-align: center;
+    width: 20%;
+}
+
+.social img {
+    margin: 1%;
+    width: 10%;
+}
+
+.terms {
+    display: inline-block;
+    margin-left: 2%;
+    text-align: center;
+    width: 20%;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer a:visited {
+    color: #7e7e7e;
+}
+
+.footer p {
+    color: #ffffff;
+    margin-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.main {
+    background-color: #7e7e7e;
+    color: #ffffff;
+    position: relative;
+    width: 100%;
+}
+
+.message {
+    color: #ffffff;
+    display: inline-block;
+    margin-left: 7%;
+    text-align: center;
+    vertical-align: middle;
+    width: 45%;
+}
+
+.visual {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 45%;
+}
+
+.visual img {
+    margin-bottom: 10%;
+    margin-left: 7%;
+    margin-top: 10%;
+    width: 90%;
+}
+
+.hours {
+    display: inline-block;
+    margin-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 5%;
+    text-align: center;
+    vertical-align: middle;
+    width: 45%;
+}
+
+.map {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 40%;
+}
+
+.map iframe {
+    border: 0;
+    height: 250px;
+    margin-top: 3%;
+    width: 100%;
+}
+
+.advertisement {
+    text-align: center;
+    width: 100%;
+}
+
+.advertisement img {
+    margin: 5%;
+    width: 30%;
+}
+
+.main form {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+form h4 {
+    margin-top: 2%;
+    text-align: center;
+}
+
+form input {
+    margin-left: 1%;
+}
+
+form button {
+    margin-bottom: 2%;
+    margin-left: 5%;
+}
+
+form a {
+    margin-bottom: 2%;
+    margin-left: 3%;
+}
